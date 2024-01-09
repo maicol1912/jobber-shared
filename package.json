@@ -15,8 +15,9 @@
     "trailingComma": "es5"
   },
   "keywords": [],
-  "name": "",
-  "author": "",
+  "name": "@maicol1912/jobber-shared",
+  "author": "maicol1912",
+  "url": "git+maicol1912/jobber-shared.git",
   "repository": {
     "type": "git",
     "url": ""
